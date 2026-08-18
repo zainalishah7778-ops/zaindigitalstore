@@ -1,0 +1,6 @@
+{
+  "name": "Zain Digital Store",
+  "description": "Premium Pakistani digital products marketplace for AI subscriptions, streaming accounts, digital masterclasses, and genuine software with instant WhatsApp checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
